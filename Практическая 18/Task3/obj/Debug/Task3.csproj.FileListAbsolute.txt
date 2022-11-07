@@ -1,0 +1,10 @@
+C:\Users\k19a\source\repos\Tasks\Task3\bin\Debug\Task3.exe.config
+C:\Users\k19a\source\repos\Tasks\Task3\bin\Debug\Task3.exe
+C:\Users\k19a\source\repos\Tasks\Task3\bin\Debug\Task3.pdb
+C:\Users\k19a\source\repos\Tasks\Task3\obj\Debug\Task3.Form1.resources
+C:\Users\k19a\source\repos\Tasks\Task3\obj\Debug\Task3.Properties.Resources.resources
+C:\Users\k19a\source\repos\Tasks\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+C:\Users\k19a\source\repos\Tasks\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\k19a\source\repos\Tasks\Task3\obj\Debug\Task3.exe
+C:\Users\k19a\source\repos\Tasks\Task3\obj\Debug\Task3.pdb
+C:\Users\k19a\source\repos\Tasks\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
